@@ -1,5 +1,5 @@
 .idea
 __pycache__
-log/*
-model/*
+*.log
+*.pt
 nlpcourse
